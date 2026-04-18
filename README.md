@@ -27,7 +27,7 @@ Hi 👋, I'm Soudeepta Bhattacharjee
 📌 Projects
 
 - AI Job Recommendation System 
-- Image Processing (Python)
+- calculator 
 - Personal Portfolio Website
 
 ---
