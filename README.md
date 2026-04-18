@@ -36,6 +36,6 @@ Hi 👋, I'm Soudeepta Bhattacharjee
 
 - 📧 Email: soudeepta2004bhattacharjee@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/soudeepta-bhattacharjee-17a7273a5
-- 💻 GitHub: https://github.com/your-username
+- 💻 GitHub: https://github.com/Soudeepta146
 
 ---
